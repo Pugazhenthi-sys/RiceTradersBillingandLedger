@@ -1,0 +1,13 @@
+.git
+.gitignore
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+.env
+.DS_Store
+JENKINS-SETUP.md
+README-FIRST.txt
+PREPARE-PROJECT.bat
+k8s/
